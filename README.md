@@ -1,5 +1,5 @@
 # PngMetaReader
-implement comment to PNG file.
+read/write comment to PNG file.
 
 # How to use
 ```java
